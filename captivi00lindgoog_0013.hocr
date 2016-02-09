@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./captivi00lindgoog_0013.png"; bbox 0 0 2640 3766; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 475 160 918 283">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 475 160 918 283">
+     <span class='ocr_line' id='line_1_1' title="bbox 475 160 918 283; baseline -0.002 -16"><span class='ocrx_word' id='word_1_1' title='bbox 475 193 644 267; x_wconf 63' lang='lat' dir='ltr'>crottum</span> <span class='ocrx_word' id='word_1_2' title='bbox 671 188 777 283; x_wconf 68' lang='grc' dir='ltr'><strong><em>Φτοσσ</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 805 160 918 271; x_wconf 61' lang='grc' dir='ltr'>Μαι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 191 1363 989 1505">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 191 1363 989 1505">
+     <span class='ocr_line' id='line_1_2' title="bbox 191 1363 989 1505; baseline -0.005 -44"><span class='ocrx_word' id='word_1_4' title='bbox 191 1485 193 1493; x_wconf 14' lang='grc' dir='ltr'><strong><em>Α</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 247 1363 250 1370; x_wconf 83' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 351 1385 437 1505; x_wconf 21' lang='grc' dir='ltr'>,τ.</span> <span class='ocrx_word' id='word_1_7' title='bbox 487 1383 696 1463; x_wconf 69' lang='lat' dir='ltr'>MAcc1⁴</span> <span class='ocrx_word' id='word_1_8' title='bbox 749 1383 989 1460; x_wconf 77' lang='lat' dir='ltr'>PLAvT1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 501 1560 1170 1715">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 501 1560 1170 1715">
+     <span class='ocr_line' id='line_1_3' title="bbox 501 1560 1170 1715; baseline -0.007 0"><span class='ocrx_word' id='word_1_9' title='bbox 501 1615 879 1715; x_wconf 75' lang='lat' dir='ltr'>CAPTrv1</span> <span class='ocrx_word' id='word_1_10' title='bbox 1014 1675 1017 1681; x_wconf 84' lang='lat'>-</span> <span class='ocrx_word' id='word_1_11' title='bbox 1166 1560 1170 1567; x_wconf 66' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 593 1976 800 2032">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 593 1976 800 2032">
+     <span class='ocr_line' id='line_1_4' title="bbox 593 1976 800 2032; baseline 0.005 -3"><span class='ocrx_word' id='word_1_12' title='bbox 593 1976 800 2032; x_wconf 58' lang='lat' dir='ltr'>cmo-var</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1324 3766">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1324 3766">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1324 3766; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1324 3766; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
